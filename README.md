@@ -1,1 +1,1 @@
-# Crypto Club
+# https://devpost.com/software/crypto-club
